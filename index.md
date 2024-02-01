@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Hello, Hisoka! Who are we targeting today?";
 ```
+#### Choose one:
+- [X] Gon
+- [ ] Kurapika
+- [ ] Killua
